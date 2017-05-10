@@ -4,6 +4,8 @@ https://compressor.io/compress - компресуєм png картинки
 https://transfonter.org/ - експортуємо шрифти в eot, woff, woff2, ttf
 https://developers.google.com/speed/pagespeed/insights/ - швидкість завантаження сторінки
 http://sublimetext.ru/documentation/hotkeys/windows - гарячі клавіші sublime text 3
+http://mehelps.ru/nuzhnyie-melochi/kak-izmenit-prefiks-wp_-v-baze-dannyih-mysql.html - міняюмо wp_ префікс на інший в wordpress database
+http://web-top-plus.ru/wordpress/wordpress-s-denvera-na-xosting/ - перенесення сайту на другий хост
 
 
 Корисні програми: 
