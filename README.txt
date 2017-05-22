@@ -1,15 +1,16 @@
 Корисні сайти:
-https://www.addthis.com - додаємо іконки соцмережей на сайт
-https://compressor.io/compress - компресуєм png картинки
-https://transfonter.org/ - експортуємо шрифти в eot, woff, woff2, ttf
-https://developers.google.com/speed/pagespeed/insights/ - швидкість завантаження сторінки
-http://sublimetext.ru/documentation/hotkeys/windows - гарячі клавіші sublime text 3
-http://mehelps.ru/nuzhnyie-melochi/kak-izmenit-prefiks-wp_-v-baze-dannyih-mysql.html - міняюмо wp_ префікс на інший в wordpress database
-http://web-top-plus.ru/wordpress/wordpress-s-denvera-na-xosting/ - перенесення сайту на другий хост
-https://developer.wordpress.org/resource/dashicons/#media-spreadsheet - іконки для кастомних постів чи таксономій в WPAdmin
+Додаємо іконки соцмережей на сайт https://www.addthis.com - 
+Компресуєм png картинки - https://compressor.io/compress
+Експортуємо шрифти в eot, woff, woff2, ttf - https://transfonter.org/
+Швидкість завантаження сторінки - https://developers.google.com/speed/pagespeed/insights/
+Гарячі клавіші sublime text 3 - http://sublimetext.ru/documentation/hotkeys/windows
+Міняюмо wp_ префікс на інший в wordpress database - http://mehelps.ru/nuzhnyie-melochi/kak-izmenit-prefiks-wp_-v-baze-dannyih-mysql.html
+перенесення сайту на другий хост - http://web-top-plus.ru/wordpress/wordpress-s-denvera-na-xosting/
+іконки для кастомних постів чи таксономій в WPAdmin - https://developer.wordpress.org/resource/dashicons/#media-spreadsheet
+Contact Form 7 - спеціальні теги в лист - https://contactform7.com/special-mail-tags/ 
 
 Корисні програми: 
-Paint.net //зменшення розмірів і якості картинок jpg
+Зменшення розмірів і якості картинок jpg - Paint.net
 
 Додатки до хрому:
-Lightshot (screenshot tool) - робить прінтскрін з стрілочкою
+Робить прінтскрін з стрілочкою - Lightshot (screenshot tool)
