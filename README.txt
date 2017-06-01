@@ -8,6 +8,8 @@
 перенесення сайту на другий хост - http://web-top-plus.ru/wordpress/wordpress-s-denvera-na-xosting/
 іконки для кастомних постів чи таксономій в WPAdmin - https://developer.wordpress.org/resource/dashicons/#media-spreadsheet
 Contact Form 7 - спеціальні теги в лист - https://contactform7.com/special-mail-tags/ 
+Share icons (створюємо посилання для поширення сторінки) http://sharelinkgenerator.com/ , https://simplesharebuttons.com/html-share-buttons/
+
 
 Корисні програми: 
 Зменшення розмірів і якості картинок jpg - Paint.net
