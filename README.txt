@@ -9,6 +9,7 @@
 іконки для кастомних постів чи таксономій в WPAdmin - https://developer.wordpress.org/resource/dashicons/#media-spreadsheet
 Contact Form 7 - спеціальні теги в лист - https://contactform7.com/special-mail-tags/ 
 Share icons (створюємо посилання для поширення сторінки) http://sharelinkgenerator.com/ , https://simplesharebuttons.com/html-share-buttons/
+WEBDesign Master (сайти) https://github.com/agragregra/wordpress-landing-page-lesson
 
 
 Корисні програми: 
