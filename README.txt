@@ -17,3 +17,4 @@ WEBDesign Master (сайти) https://github.com/agragregra/wordpress-landing-pa
 
 Додатки до хрому:
 Робить прінтскрін з стрілочкою - Lightshot (screenshot tool)
+Прінтскрін всього сайту - full page screen capture
