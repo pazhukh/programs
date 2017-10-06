@@ -3,7 +3,6 @@
 Компресуєм png картинки - https://compressor.io/compress
 Експортуємо шрифти в eot, woff, woff2, ttf - https://transfonter.org/
 Швидкість завантаження сторінки - https://developers.google.com/speed/pagespeed/insights/
-Гарячі клавіші sublime text 3 - http://sublimetext.ru/documentation/hotkeys/windows
 Міняюмо wp_ префікс на інший в wordpress database - http://mehelps.ru/nuzhnyie-melochi/kak-izmenit-prefiks-wp_-v-baze-dannyih-mysql.html
 перенесення сайту на другий хост - http://web-top-plus.ru/wordpress/wordpress-s-denvera-na-xosting/
 іконки для кастомних постів чи таксономій в WPAdmin - https://developer.wordpress.org/resource/dashicons/#media-spreadsheet
@@ -18,3 +17,16 @@ WEBDesign Master (сайти) https://github.com/agragregra/wordpress-landing-pa
 Додатки до хрому:
 Робить прінтскрін з стрілочкою - Lightshot (screenshot tool)
 Прінтскрін всього сайту - full page screen capture
+
+Sublime 3
+https://packagecontrol.io/installation встановлюємо package control
+Ctr+Shift+P - відкриваємо package control
+Emmet
+Color Hightlighter
+Sass
+go to css decleration (window+alt+.)
+//Ctr+Shift+p - для форматування відступів
+goto menu Preferences -> Key Bindings – User
+{ "keys": ["ctrl+shift+f"], "command": "reindent"}
+Гарячі клавіші sublime text 3 - http://sublimetext.ru/documentation/hotkeys/windows
+
