@@ -10,13 +10,18 @@ Contact Form 7 - спеціальні теги в лист - https://contactform
 Share icons (створюємо посилання для поширення сторінки) http://sharelinkgenerator.com/ , https://simplesharebuttons.com/html-share-buttons/
 WEBDesign Master (сайти) https://github.com/agragregra/wordpress-landing-page-lesson
 
+*************************************************************************************************
 
 Корисні програми: 
 Зменшення розмірів і якості картинок jpg - Paint.net
 
+*************************************************************************************************
+
 Додатки до хрому:
 Робить прінтскрін з стрілочкою - Lightshot (screenshot tool)
 Прінтскрін всього сайту - full page screen capture
+
+*************************************************************************************************
 
 Sublime 3
 https://packagecontrol.io/installation встановлюємо package control
@@ -30,3 +35,8 @@ goto menu Preferences -> Key Bindings – User
 { "keys": ["ctrl+shift+f"], "command": "reindent"}
 Гарячі клавіші sublime text 3 - http://sublimetext.ru/documentation/hotkeys/windows
 
+*************************************************************************************************
+
+Плагіни
+lazyload
+http://jquery.eisbehr.de/lazy/
